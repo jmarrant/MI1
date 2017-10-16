@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<img src="me.jpg"
+     style="float:right"
+     width = "300" 
+     height= "200" width 
+     alt="ik bij het atonium"/>
+
+</body>
+</html>
